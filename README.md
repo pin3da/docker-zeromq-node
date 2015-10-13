@@ -1,2 +1,3 @@
 # docker-zeromq-node
-Debian image + [ZeroMQ](http://zeromq.org/) and [NodeJS](https://nodejs.org/en/)
+
+Docker image of Debian + [ZeroMQ](http://zeromq.org/) and [NodeJS](https://nodejs.org/en/)
