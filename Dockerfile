@@ -28,4 +28,8 @@ RUN make
 RUN make install
 RUN ldconfig
 
+WORKDIR /home
+RUN rm -rf node-v4.2.0*
+RUN rm -rf zeromq-4.1.3*
+
 WORKDIR /
